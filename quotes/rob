@@ -9,3 +9,5 @@ Where will we be ten years from now? CRT’s will be a thing of the past, multim
 Object-oriented design is the roman numerals of computing.
 Those days are dead and gone and the eulogy was delivered by Perl. 
 The major things we saw wrong with Unix when we started talking about what would become Plan 9, back around 1985, all stemmed from the appearance of a network. As a stand-alone system, Unix was pretty good. But when you networked Unix machines together, you got a network of stand-alone systems instead of a seamless, integrated networked system. Instead of one big file system, one user community, one secure setup uniting your network of machines, you had a hodgepodge of workarounds to Unix's fundamental design decision that each machine is self-sufficient. 
+The big hardware announcement today: Push hard on the camera button and the iPhone goes into selfie mode. This is the world I live in.
+I don't understand the phrase "tiny portable Linux". None of the words must have the definition I am familiar with. I must relearn.
